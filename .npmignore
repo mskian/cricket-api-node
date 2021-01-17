@@ -1,0 +1,28 @@
+# Dependency directory
+test.js
+backup.js
+api.js
+.env
+.npmrc
+node_modules
+test
+.npmignore
+.gitignore
+.git*
+.github*
+.eslintrc.js
+Screenshot.png
+config-example.json
+.travis.yml
+.dependabot
+renovate.json
+screenshot.gif
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Editors
+.vscode/*

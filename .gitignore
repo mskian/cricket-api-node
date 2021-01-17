@@ -1,0 +1,15 @@
+# Dependency directory
+backup.js
+.env
+node_modules
+test
+
+# Optional npm cache directory
+.npm
+.npmrc
+
+# Optional eslint cache
+.eslintcache
+
+# Editors
+.vscode/*

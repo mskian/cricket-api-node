@@ -1,0 +1,31 @@
+{
+  "name": "cricket-api-node",
+  "version": "1.0.0",
+  "description": "Build an Live Cricket Score JSON API by using this Node Module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/cricket-api-node.git"
+  },
+  "keywords": [
+    "cricket",
+    "score",
+    "live",
+    "match",
+    "cricketscore",
+    "cricket-cli",
+    "cricket-api"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskian/cricket-api-node/issues"
+  },
+  "homepage": "https://github.com/mskian/cricket-api-node#readme",
+  "dependencies": {
+    "got": "^11.8.1"
+  }
+}
