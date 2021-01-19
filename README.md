@@ -1,6 +1,6 @@
 # Cricket API Node 🏏
 
-![Score Test](https://github.com/mskian/cricket-api-node/workflows/Score%20Test/badge.svg)  
+![Score Test](https://github.com/mskian/cricket-api-node/workflows/Score%20Test/badge.svg)  [![dependencies Status](https://status.david-dm.org/gh/mskian/cricket-api-node.svg?style=flat-square)](https://david-dm.org/mskian/cricket-api-node)  
 
 Build a Live Cricket Score JSON API by using this Node Module.
 
