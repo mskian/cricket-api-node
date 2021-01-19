@@ -1,6 +1,6 @@
 {
   "name": "cricket-api-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build a Live Cricket Score JSON API by using this Node Module.",
   "main": "index.js",
   "scripts": {
