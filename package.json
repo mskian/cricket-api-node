@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/mskian/cricket-api-node#readme",
   "dependencies": {
-    "got": "^11.8.1"
+    "got": "^11.8.2"
   }
 }
